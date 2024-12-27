@@ -1,6 +1,7 @@
 # SMOH Math Library
 ![library-cover](https://github.com/user-attachments/assets/a1309153-f8e2-4868-b884-ae96a4fb965c)
 
+## Overview
 A powerful C++ mathematical library that combines NumPy-like functionality with machine learning capabilities, advanced mathematical operations, and statistical analysis tools. This header-only library provides efficient implementations for scientific computing, machine learning, and data analysis tasks, with robust error handling and input validation.
 
 ## Table of Contents
